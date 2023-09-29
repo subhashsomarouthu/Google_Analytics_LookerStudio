@@ -1,5 +1,6 @@
 
 # Google Analytics Looker Studio
+[Project_Link](https://lookerstudio.google.com/s/lxFTOdgK-Xc)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
